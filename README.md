@@ -1,1 +1,1 @@
-It's my very first basic project, my CV.
+It's my very first project, my CV.
